@@ -61,6 +61,13 @@ I built this assignment entirely using code and concepts from the course:
   - CSS transitions for smooth hover effects.  
   - CSS transforms (`scale`, `rotate`) on boxes and images.  
 
+
+---
+## Testing and Validation
+
+All HTML pages and CSS stylesheets were validated using the W3C HTML and CSS validators, with no major errors. Links were checked with the W3C Link Checker, spelling was reviewed, and accessibility was tested with the WAVE tool.  
+
+
 ---
 
 ## Features of the Portfolio  
